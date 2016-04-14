@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[asj]]></title>
+        <description><![CDATA[asj]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 15:39:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[woning BA te W]]></title>
+            <description><![CDATA[<article><h1>woning BA te W</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f54a09-1f0e-4f3d-9a59-5c7268613b23.jpg"></article>]]></description>
+            <link>undefined24966ba1-0185-4a8b-846e-3b3a4b9ad241/index.html</link>
+            <guid isPermaLink="false">24966ba1-0185-4a8b-846e-3b3a4b9ad241</guid>
+            <pubDate>Thu, 14 Apr 2016 15:39:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
