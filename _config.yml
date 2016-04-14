@@ -1,7 +1,7 @@
 name: asj
 favicon: null
-layout_spectrum: 0.936434852425009
-typography_spectrum: 0.9713620205875486
+layout_spectrum: 1
+typography_spectrum: 0.55115
 cta:
   domain: null
   bucket: null
