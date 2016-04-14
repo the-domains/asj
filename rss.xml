@@ -4,21 +4,21 @@
         <description><![CDATA[architectenbureau stijn janssens]]></description>
         <link>https://thegrid.ai/asj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 17:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 17:50:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/asj/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[woning GN te B]]></title>
+            <description><![CDATA[<article><h1>woning GN te B</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ad31dafcc8dae45da3dda654bb38768605e986b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/asj/833c25df-4403-4c31-908d-838506766c3b/index.html</link>
+            <guid isPermaLink="false">833c25df-4403-4c31-908d-838506766c3b</guid>
+            <pubDate>Thu, 14 Apr 2016 17:49:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[woning BA te W]]></title>
             <description><![CDATA[<article><h1>woning BA te W</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6f54a09-1f0e-4f3d-9a59-5c7268613b23.jpg"></article>]]></description>
             <link>https://thegrid.ai/asj/24966ba1-0185-4a8b-846e-3b3a4b9ad241/index.html</link>
             <guid isPermaLink="false">24966ba1-0185-4a8b-846e-3b3a4b9ad241</guid>
             <pubDate>Thu, 14 Apr 2016 17:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[woning GN te B]]></title>
-            <description><![CDATA[<article><h1>woning GN te B</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ad31dafcc8dae45da3dda654bb38768605e986b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/asj/833c25df-4403-4c31-908d-838506766c3b/index.html</link>
-            <guid isPermaLink="false">833c25df-4403-4c31-908d-838506766c3b</guid>
-            <pubDate>Thu, 14 Apr 2016 17:33:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
