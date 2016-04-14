@@ -1,0 +1,28 @@
+name: asj
+favicon: null
+layout_spectrum: 0.936434852425009
+typography_spectrum: 0.9713620205875486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8649534948635846
+  lightness: 0.21581420814618468
+  saturation: 0.2030899552628398
+  rhythmicContrast: 0.5777883266564459
+purpose: []
