@@ -1,4 +1,5 @@
-layout_spectrum: 1
+favicon: null
+name: architectenbureau stijn janssens
 opengraph:
   image: null
   type: null
@@ -18,7 +19,7 @@ collections:
 purpose: []
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0.4957447
   lightness: 0.5
   brandColors:
     - '#ffffff'
@@ -28,13 +29,12 @@ color:
     - '#eee8db'
   rhythmicContrast: 1
 typography_spectrum: 0.56319
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: architectenbureau stijn janssens
+cta:
+  bucket: null
+  version: null
+  domain: null
