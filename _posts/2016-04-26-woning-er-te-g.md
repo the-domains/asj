@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: woning ER te G
-datePublished: '2016-04-26T12:36:48.195Z'
-dateModified: '2016-04-26T12:36:45.157Z'
+datePublished: '2016-04-26T12:37:25.918Z'
+dateModified: '2016-04-26T12:36:57.033Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-woning-er-te-g.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-woning-er-te-g.md
-published: true
 url: woning-er-te-g/index.html
 _type: Article
 
